@@ -1,5 +1,5 @@
 context:
-  version: "0.3.1"
+  version: "0.3.2"
 
 package:
   name: llama-index-llms-azure-openai
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/l/llama-index-llms-azure-openai/llama_index_llms_azure_openai-${{ version }}.tar.gz
-    sha256: d846e72017480739d385a420b3432f5f2bdd0e4fe7ce1dc5f25deac7d0a81f70
+    sha256: c6ae4e6d896abc784a1d60e02a537c91e019317de69d02256424eab80c988646
   - url: https://raw.githubusercontent.com/run-llama/llama_index/main/LICENSE
     sha256: 24f40b5190fdacabc24ddbb5f76364d15e4f030925220ea300d8a2dd4993c8cb
 
